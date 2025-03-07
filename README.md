@@ -37,8 +37,8 @@ An interactive web application that serves as a comprehensive cheatsheet for app
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/appliedeconcheatsheet.git
-   cd appliedeconcheatsheet
+   git clone https://github.com/GordonGekko-P/AppliedEconCheatSheet.git
+   cd AppliedEconCheatSheet
    ```
 
 2. Create a virtual environment (optional but recommended):
@@ -56,7 +56,7 @@ An interactive web application that serves as a comprehensive cheatsheet for app
 
 1. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run streamlit_app.py
    ```
 
 2. Open your web browser and navigate to the URL shown in the terminal (typically http://localhost:8501)
